@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "Twitter Sayfa Temizleyici"
+  },
+  "extDesc": {
+    "message": "Bu uzantı twitter sayfalarındaki Gündem, Kimi Takip Etmeli ve Hakkında bölümlerinden seçtiklerinizi sizin için gizler."
+  },
+  "h1_title": {
+    "message": "Twitter Sayfa Temizleyici"
+  },
+  "legend_info": {
+    "message": "Hangi bölümleri gizlemek istersin?"
+  },
+  "p_description": {
+    "message": "Bu uzantı twitter sayfalarındaki bazı bölümleri sizin için gizler."
+  },
+  "p_refresh": {
+    "message": "Yeni ayarları uygulamak için sayfayı yenile!"
+  },
+  "label_trends": {
+    "message": "Gündem"
+  },
+  "label_wtf": {
+    "message": "Kimi Takip Etmeli"
+  },
+  "label_footer": {
+    "message": "Hakkında"
+  }
+}

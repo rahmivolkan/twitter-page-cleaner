@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "Twitter Page Cleaner"
+  },
+  "extDesc": {
+    "message": "This extension hides your choice of trends, who to follow and footer dashboards from twitter pages."
+  },
+  "h1_title": {
+    "message": "Twitter Page Cleaner"
+  },
+  "legend_info": {
+    "message": "What do you want to hide?"
+  },
+  "p_description": {
+    "message": "This extension will hide certain parts of twitter pages. "
+  },
+  "p_refresh": {
+    "message": "Refresh the page when you are done!"
+  },
+  "label_trends": {
+    "message": "Trends"
+  },
+  "label_wtf": {
+    "message": "Who to follow"
+  },
+  "label_footer": {
+    "message": "Footer"
+  }
+}
